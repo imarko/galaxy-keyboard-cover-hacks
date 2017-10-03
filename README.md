@@ -52,3 +52,6 @@ and may not work with custom ROMs.
 - No search key, I miss that in the browser and some other apps that supported it and also for quick launch
 - There is not backlight so not great in complete dark but the shape
 of the keys is easy to make out with your fingertips
+
+Despite these shortcomings this is probably still the best pocket-ssh
+solution on a modern device.
