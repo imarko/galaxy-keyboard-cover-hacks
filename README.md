@@ -44,8 +44,11 @@ argument. In the child shell (or process) you can type "$c" for Ctrl-C
 and enter other Ctrl shifted characters similarly. "$$" will emit a
 real "$". 
 
-## The keyboard cover only works with the "Samsung Keyboard" virtual keyboard
-
-This means that it cannot be used with "Hacker's Keyboard" and may not
-work with custom ROMs. The Samsung Keyboard cannot be used with the
-Samsung theming engine.
+## Other notes
+- The keyboard cover only works with the "Samsung Keyboard" virtual
+keyboard. This means that it cannot be used with "Hacker's Keyboard"
+and may not work with custom ROMs. 
+- Samsung Themes doesn't work with the Keyboard Cover
+- No search key, I miss that in the browser and some other apps that supported it and also for quick launch
+- There is not backlight so not great in complete dark but the shape
+of the keys is easy to make out with your fingertips
